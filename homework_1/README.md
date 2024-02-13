@@ -1,3 +1,3 @@
 # ДЗ №1
 
-Описание выполненной домашней работы, команды и инструкция для запуска, используемый стек.
+https://docs.google.com/spreadsheets/d/1T4cEykPO8YNelTco2NfksJW2IVw4bO0-EBIXCqMH8sA/edit?usp=sharing
